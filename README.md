@@ -1,2 +1,3 @@
-# omop-annotator-release
-Releases of the OMOP Annotator Web Application
+# OMOP Annotator Releases
+
+This repository contains packaged releases of the OMOP Annotator web application.
